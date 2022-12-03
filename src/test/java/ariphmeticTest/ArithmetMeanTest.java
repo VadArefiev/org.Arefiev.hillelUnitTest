@@ -33,3 +33,4 @@ public class ArithmetMeanTest {
         Assert.assertEquals(expected, output, 0);
     }
 }
+

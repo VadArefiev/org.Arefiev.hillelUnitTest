@@ -13,3 +13,4 @@ public class ArithmetMean {
         return (sum / array.length);
     }
 }
+
