@@ -1,4 +1,4 @@
-package jUnitTest;
+package quadratischeMatrixTest;
 
 public class Main {
 
