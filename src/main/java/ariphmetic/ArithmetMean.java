@@ -1,5 +1,9 @@
 package ariphmetic;
 
+/**
+ * 1.add a method that will calculate the arithmetic mean of the array elements
+ */
+
 public class ArithmetMean {
 
     public double arithmeticalMean(double[] array) {
